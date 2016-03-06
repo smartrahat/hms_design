@@ -1,0 +1,33 @@
+body{
+	margin:0px;
+	padding:0px;
+	background:#888888;
+}
+.main_layout{
+	background: #fff none repeat scroll 0 0;
+	margin-top: 50px;
+}
+.top-bar{
+	background: #00b32d none repeat scroll 0 0;
+	overflow: hidden;
+}
+.top-bar ul{
+	list-style: outside none none;
+	margin: 0;
+	padding: 0;
+}
+.top-bar ul li{}
+.top-bar ul li a{
+	color: #fff;
+	display: block;
+	float: left;
+	font-family: serif;
+	font-size: 14px;
+	outline: medium none;
+	padding: 10px;
+	text-decoration: none;
+}
+.top-bar ul li a:hover{
+	color:#ffffff;
+	background:#00d900;
+}
